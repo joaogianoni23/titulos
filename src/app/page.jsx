@@ -1,9 +1,10 @@
 import styles from "./page.module.css";
+import Titulo from "./titulos/page";
 
 export default function Home() {
   return (
     <div>
-      <h1>Hello, World</h1>
+      <Titulo></Titulo>
     </div>
   );
 }
