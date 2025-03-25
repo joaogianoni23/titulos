@@ -30,7 +30,9 @@
         /footer
           -index.jsx
           -footer.module.css
-
+          
+## Dificuldades
+Tive uma experiencia um pouco complicada nesta atividade pois não lembrava muito como realizar e as vezes tinham alguns erros que nunca tinha visto antes, porem por fim, consegui realizar com ajuda de meus colegas e utilização do repositório do professor
 ## Decisão de Componentização
 
   # Header
